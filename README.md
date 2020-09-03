@@ -1,2 +1,2 @@
 # proba
-Ezzel kezdjük a gitt tanulását
+Ezzel kezdjük a git tanulását
